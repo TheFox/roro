@@ -1,2 +1,3 @@
 # roro
-Simple CLI tool for tracking work hours.
+
+Simple CLI tool for tracking work hours written in Rust.
